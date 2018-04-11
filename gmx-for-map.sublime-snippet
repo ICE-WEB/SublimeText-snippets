@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+for(var ${1:key} in ${2:map}){
+	var v = ${3:map}[${4:key}];
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>for</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

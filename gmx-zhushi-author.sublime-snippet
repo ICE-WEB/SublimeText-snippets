@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+
+/**
+* ${1:注释}
+* author:gmx
+*/
+]]></content>
+	<tabTrigger>note-a</tabTrigger>
+</snippet>
